@@ -9,6 +9,9 @@ I'have been learing Java,Python,Html,CSS,Javascrip,React.js,
 * 🌍  I'm based in ไทย
 * ✉️  You can contact me at [thasanai60@gmail.com](mailto:thasanai60@gmail.com)
 
+<a href="https://www.github.com/dewwss" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dewwss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
